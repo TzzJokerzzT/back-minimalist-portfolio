@@ -1,0 +1,313 @@
+{
+  "basics": {
+    "name": "Antonio Alcala",
+    "label": "Backend Developer with more than 14 years of experience in backend and database development",
+    "image": "/me.webp",
+    "email": "alcala1229@gmail.com",
+    "phone": "+57 3005667254",
+    "url": "https://antonio-alcala.vercel.app",
+    "summary": "+10 years of experience as a Backend Developer. I am currently a Backend developer. I live in Cartagena, Colombia. I have worked in different environments: from accelerating the development of start-ups.",
+    "location": {
+      "address": "",
+      "postalCode": "130011",
+      "city": "Cartagena de Indias",
+      "countryCode": "ES",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Antionio Alcala",
+        "url": "https://www.linkedin.com/in/antonio-alcal%C3%A1-p%C3%A9rez-a3770820a/"
+      },
+      {
+        "network": "X",
+        "username": "TzzJokerzzT",
+        "url": "https://twitter.com/Alex_Buelvas92/"
+      },
+      {
+        "network": "GitHub",
+        "username": "tzzjokerzzt",
+        "url": "https://github.com/tzzjokerzzt/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Freelance Backend Developer",
+      "position": "Backend Developer",
+      "startDate": "2022-02-01",
+      "endDate": null,
+      "summary": "Developed and maintained web application using Java, Spring Boot, HTML, CSS and Javascriprit. Also collaborated with cross-functional team to design, develop and implement new features, implemented RESTful APIs and intregrated with third-party services. Particpated in agile methodologies and contributed in spring planning process.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Lean Tech",
+      "position": "Backend Developer",
+      "url": "https://www.leangroup.com/solutions-and-services/technology",
+      "startDate": "2020-02-04",
+      "endDate": "2022-02-04",
+      "summary": "Backend developer in charge of feature development for the See Tickets campaign, with the position of mid senior backend developer the most notable achievments I worked in a AI project for one of the biggest technology company.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Freelance Backend Developer",
+      "position": "Frontend - Backend Developer",
+      "startDate": "2019-02-01",
+      "endDate": "2023-05-01",
+      "summary": "Development of web projects and web applications for foreign clients found through online platforms using Java(Spring Boot) and Javascript(Angular).",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Madre Bernarda Hospital",
+      "position": "Backend Developer",
+      "startDate": "2018-01-05",
+      "endDate": "2019-09-01",
+      "summary": "I led the development of the hospital's database and the development of the internal platform that hospital uses to review patients and generate medical records.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ONE LAD Front End - Alura Latam",
+      "position": "One Helper (Javascript and React) Tutor",
+      "url": "https://www.aluracursos.com/",
+      "startDate": "2024-01-15",
+      "endDate": null,
+      "summary": "Provide help to students of the One Lad Front End course on Java and Spring Boot related topics. Solve doubts, provide learning material and carry out tutorials or personalized classes.",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnico de la Costa",
+      "url": "https://itec.edu.co/",
+      "area": "Electronics Technician",
+      "studyType": "Bachelor",
+      "startDate": "2010-02-02",
+      "endDate": "2015-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "SpringBoot",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "NoSQL",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Oracle",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Hibernate",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Maven",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "JUnit",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Apache",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "GraphQL",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Video Games",
+      "keywords": ["Ferrets", "Unicorns"]
+    },
+    {
+      "name": "Music",
+      "keywords": ["Ferrets", "Unicorns"]
+    },
+    {
+      "name": "Basketball",
+      "keywords": ["Ferrets", "Unicorns"]
+    },
+    {
+      "name": "Anime",
+      "keywords": ["Ferrets", "Unicorns"]
+    },
+    {
+      "name": "Reading books",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Prisma Store",
+      "isActive": true,
+      "description": "A store where you will find a video game console catalog",
+      "highlights": ["Video Game Store"],
+      "url": "https://prisma-store-one.vercel.app",
+      "github": "https://github.com/TzzJokerzzT/prisma-store"
+    },
+    {
+      "name": "Brooklyn Fast Food Restaurant",
+      "isActive": true,
+      "description": "Landing page of one of the best fast food restaurants in the city of Cartagena",
+      "highlights": ["Landing Page", "+1k visit"],
+      "url": "https://brooklyn-fast-food.netlify.app",
+      "github": "https://github.com/TzzJokerzzT/brklyn_restaurant"
+    },
+    {
+      "name": "Pig Game",
+      "isActive": true,
+      "description": "A small dice game",
+      "highlights": ["Web Game"],
+      "url": "https://pig-game-appl.netlify.app",
+      "github": "https://github.com/TzzJokerzzT/pig-game"
+    },
+    {
+      "name": "Chuck Norris Phrases",
+      "isActive": true,
+      "description": "Website where you can see the best famous phrases that the internet community has created about this legendary action movie actor",
+      "highlights": ["Phrases of Internet", "Personal development"],
+      "url": "https://chucknorris-app.netlify.app",
+      "github": "https://github.com/TzzJokerzzT/chuck-norris"
+    },
+    {
+      "name": "Bankist Landing Page",
+      "isActive": true,
+      "description": "Landing page model for banking entities",
+      "highlights": ["Landing Page"],
+      "url": "https://bankist-appl.netlify.app",
+      "github": "https://github.com/TzzJokerzzT/bankist-application"
+    },
+    {
+      "name": "ToDo App",
+      "description": "An all app that I created to record all the activities and studies that I will do during the day, week and month",
+      "highlights": ["Activity planning", "Personal project"],
+      "url": "https://todo-app-rt.vercel.app",
+      "github": "https://github.com/TzzJokerzzT/todoapp"
+    }
+  ]
+}
